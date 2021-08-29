@@ -6,7 +6,7 @@
 
 O desafio faz parte do curso na plataforma da Digital Innovation One:
 
-__*Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform*__
+__*Análise de dados com Python e Pandas*__
 
 O desafio consiste em efetuar uma análise exploratória em uma base de dados com informações de vendas fornecida pela Microsoft.
 
